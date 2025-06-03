@@ -5,6 +5,7 @@
 Este projeto investiga a relação entre indicadores de saneamento básico (água tratada e esgoto) e o desempenho dos participantes do ENEM 2020, utilizando dados oficiais do Sistema Nacional de Informações sobre Saneamento (SNIS) e dos microdados do ENEM. O foco é analisar se a infraestrutura de saneamento influencia as oportunidades educacionais e os resultados dos estudantes brasileiros.
 
 Este trabalho foi desenvolvido como parte da disciplina ECM514 ministrada pelo professor [Rogerio de Oliveira](https://github.com/Rogerio-mack).
+O curso pode ser encontrado [aqui](https://github.com/Rogerio-mack/IMT_CD_2025) e as instruções estão [aqui](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2025/blob/main/IMT_CD_Projeto_I.ipynb).
 
 ## Dados Utilizados
 
