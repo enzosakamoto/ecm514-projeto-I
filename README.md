@@ -33,3 +33,7 @@ O curso pode ser encontrado [aqui](https://github.com/Rogerio-mack/IMT_CD_2025) 
 ## Datafolio
 
 ![Datafolio Ciência de dados S1.jpg](./images/Datafolio%20Ciência%20de%20dados%20S1.jpg)
+
+## Video
+
+[![video](https://img.youtube.com/vi/7fXxlR42anE/0.jpg)](https://www.youtube.com/watch?v=7fXxlR42anE)
