@@ -31,4 +31,4 @@ Este trabalho foi desenvolvido como parte da disciplina ECM514 ministrada pelo p
 
 ## Datafolio
 
-![Datafolio Ciência de dados S1.jpg](../images/Datafolio%20Ciência%20de%20dados%20S1.jpg)
+![Datafolio Ciência de dados S1.jpg](./images/Datafolio%20Ciência%20de%20dados%20S1.jpg)
